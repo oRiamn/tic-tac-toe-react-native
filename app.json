@@ -1,0 +1,15 @@
+{
+  "expo": {
+   "name": "TicTacToe",
+   "icon": "./icons/tic-tac-toe.png",
+   "version": "1.0.0",
+   "slug": "tictactoe",
+   "sdkVersion": "23.0.0",
+   "ios": {
+     "bundleIdentifier": "com.oriamn.tic-tac-toe"
+   },
+   "android": {
+     "package": "com.oriamn.tictactoe"
+   }
+  }
+}
